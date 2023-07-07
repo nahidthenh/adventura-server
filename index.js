@@ -16,6 +16,11 @@ app.get('/hotels', (req, res) => {
     res.send(hotels)
 })
 
+app.get('/hotels/:id', (req, res) => {
+    const id = req.params.id
+    const hotel = hotels.find(htl => htl.id == id)
+    res.send(hotel)
+})
 
 app.listen(port, () => {
     console.log(`Adventura Server Running On Port ${port}`)
