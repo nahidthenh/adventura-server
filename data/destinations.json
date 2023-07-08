@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "place": "Paris, France",
+        "image": "https://dummyimage.com/600x400/000/fff&text=Paris"
+    },
+    {
+        "id": 2,
+        "place": "Tokyo, Japan",
+        "image": "https://dummyimage.com/600x400/000/fff&text=Tokyo"
+    },
+    {
+        "id": 3,
+        "place": "Rome, Italy",
+        "image": "https://dummyimage.com/600x400/000/fff&text=Rome"
+    },
+    {
+        "id": 4,
+        "place": "New York City, USA",
+        "image": "https://dummyimage.com/600x400/000/fff&text=New+York"
+    },
+    {
+        "id": 5,
+        "place": "Cairo, Egypt",
+        "image": "https://dummyimage.com/600x400/000/fff&text=Cairo"
+    },
+    {
+        "id": 6,
+        "place": "Sydney, Australia",
+        "image": "https://dummyimage.com/600x400/000/fff&text=Sydney"
+    },
+    {
+        "id": 7,
+        "place": "Rio de Janeiro, Brazil",
+        "image": "https://dummyimage.com/600x400/000/fff&text=Rio"
+    },
+    {
+        "id": 8,
+        "place": "Cape Town, South Africa",
+        "image": "https://dummyimage.com/600x400/000/fff&text=Cape+Town"
+    },
+    {
+        "id": 9,
+        "place": "Bangkok, Thailand",
+        "image": "https://dummyimage.com/600x400/000/fff&text=Bangkok"
+    }
+]
