@@ -3,24 +3,24 @@
         "id": 1,
         "title": "1000+ Expert Guides Worldwide",
         "icon": "ri-user-3-line",
-        "photo": "./images/whyus/1.png"
+        "photo": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/whyus/1.png"
     },
     {
         "id": 2,
         "title": "Trusted Tour Agency",
         "icon": "ri-shield-star-line",
-        "photo": "./images/whyus/2.png"
+        "photo": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/whyus/2.png"
     },
     {
         "id": 3,
         "title": "Over 12 Years of Travel Experience",
         "icon": "ri-map-line",
-        "photo": "./images/whyus/3.png"
+        "photo": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/whyus/3.png"
     },
     {
         "id": 4,
         "title": "99% Customer Satisfaction Rate",
         "icon": "ri-user-smile-line",
-        "photo": "./images/whyus/4.png"
+        "photo": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/whyus/4.png"
     }
 ]

@@ -16,7 +16,6 @@ app.get('/', (req, res) => {
 app.get('/hotels', (req, res) => {
     res.send(hotels)
 })
-
 app.get('/hotels/:id', (req, res) => {
     const id = req.params.id
     const hotel = hotels.find(htl => htl.id == id)
@@ -25,6 +24,11 @@ app.get('/hotels/:id', (req, res) => {
 
 app.get('/whyus', (req, res) => {
     res.send(whyus)
+})
+app.get('/whyus/:id', (req, res) => {
+    const id = req.params.id
+    const whyusd = whyus.find(wu => wu.id == id)
+    res.send(whyusd)
 })
 
 app.listen(port, () => {
