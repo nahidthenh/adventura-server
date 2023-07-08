@@ -2,46 +2,46 @@
     {
         "id": 1,
         "place": "Paris, France",
-        "image": "https://dummyimage.com/600x400/000/fff&text=Paris"
+        "image": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/1.png"
     },
     {
         "id": 2,
         "place": "Tokyo, Japan",
-        "image": "https://dummyimage.com/600x400/000/fff&text=Tokyo"
+        "image": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/2.png"
     },
     {
         "id": 3,
         "place": "Rome, Italy",
-        "image": "https://dummyimage.com/600x400/000/fff&text=Rome"
+        "image": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/3.png"
     },
     {
         "id": 4,
         "place": "New York City, USA",
-        "image": "https://dummyimage.com/600x400/000/fff&text=New+York"
+        "image": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/4.png"
     },
     {
         "id": 5,
         "place": "Cairo, Egypt",
-        "image": "https://dummyimage.com/600x400/000/fff&text=Cairo"
+        "image": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/5.png"
     },
     {
         "id": 6,
         "place": "Sydney, Australia",
-        "image": "https://dummyimage.com/600x400/000/fff&text=Sydney"
+        "image": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/6.png"
     },
     {
         "id": 7,
         "place": "Rio de Janeiro, Brazil",
-        "image": "https://dummyimage.com/600x400/000/fff&text=Rio"
+        "image": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/7.png"
     },
     {
         "id": 8,
         "place": "Cape Town, South Africa",
-        "image": "https://dummyimage.com/600x400/000/fff&text=Cape+Town"
+        "image": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/8.png"
     },
     {
         "id": 9,
         "place": "Bangkok, Thailand",
-        "image": "https://dummyimage.com/600x400/000/fff&text=Bangkok"
+        "image": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/9.png"
     }
 ]
