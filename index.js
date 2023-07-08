@@ -7,6 +7,7 @@ app.use(cors())
 
 const hotels = require('./data/hotels.json')
 const whyus = require('./data/whyUs.json')
+const destinations = require('./data/destinations.json')
 
 app.get('/', (req, res) => {
     res.send('Adventura Server Is Running !!! ')
@@ -29,6 +30,15 @@ app.get('/whyus/:id', (req, res) => {
     const id = req.params.id
     const whyusd = whyus.find(wu => wu.id == id)
     res.send(whyusd)
+})
+
+app.get('/destinations', (req, res) => {
+    res.send(whyus)
+})
+app.get('/destinations/:id', (req, res) => {
+    const id = req.params.id
+    const destination = destinations.find(wu => wu.id == id)
+    res.send(destination)
 })
 
 app.listen(port, () => {
