@@ -33,7 +33,7 @@ app.get('/whyus/:id', (req, res) => {
 })
 
 app.get('/destinations', (req, res) => {
-    res.send(whyus)
+    res.send(destinations)
 })
 app.get('/destinations/:id', (req, res) => {
     const id = req.params.id
