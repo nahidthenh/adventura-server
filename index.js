@@ -6,6 +6,7 @@ const port = process.env.PORT || 5000
 app.use(cors())
 
 const hotels = require('./data/hotels.json')
+const whyus = require('./data/whyUs.json')
 
 app.get('/', (req, res) => {
     res.send('Adventura Server Is Running !!! ')
@@ -20,6 +21,10 @@ app.get('/hotels/:id', (req, res) => {
     const id = req.params.id
     const hotel = hotels.find(htl => htl.id == id)
     res.send(hotel)
+})
+
+app.get('/whyus', (req, res) => {
+    res.send(whyus)
 })
 
 app.listen(port, () => {
