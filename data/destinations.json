@@ -15,6 +15,9 @@
             "emergencyEmail": "emergency@paris.com",
             "distance": "Distance: 4,953 miles (7,969 kilometers)"
         },
+        "discount": 20,
+        "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/1.png",
+        "price": 120,
         "photoGallery": {
             "shortDescription": "Explore the beauty of Paris through these stunning images.",
             "images": [
@@ -43,6 +46,9 @@
             "emergencyEmail": "emergency@tokyo.com",
             "distance": "Distance: 6,896 miles (11,102 kilometers)"
         },
+        "discount": 15,
+        "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/2.png",
+        "price": 250,
         "photoGallery": {
             "shortDescription": "Immerse yourself in the sights of Tokyo with these captivating images.",
             "images": [
@@ -71,6 +77,9 @@
             "emergencyEmail": "emergency@tokyo.com",
             "distance": "Distance: 6,896 miles (11,102 kilometers)"
         },
+        "discount": 10,
+        "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/3.png",
+        "price": 420,
         "photoGallery": {
             "shortDescription": "Immerse yourself in the sights of Tokyo with these captivating images.",
             "images": [
@@ -99,6 +108,9 @@
             "emergencyEmail": "emergency@tokyo.com",
             "distance": "Distance: 6,896 miles (11,102 kilometers)"
         },
+        "discount": 25,
+        "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/4.png",
+        "price": 380,
         "photoGallery": {
             "shortDescription": "",
             "images": [
@@ -127,6 +139,9 @@
             "emergencyEmail": "emergency@tokyo.com",
             "distance": "Distance: 6,896 miles (11,102 kilometers)"
         },
+        "discount": 30,
+        "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/5.png",
+        "price": 150,
         "photoGallery": {
             "shortDescription": "",
             "images": [
@@ -155,6 +170,9 @@
             "emergencyEmail": "emergency@tokyo.com",
             "distance": "Distance: 6,896 miles (11,102 kilometers)"
         },
+        "discount": 12,
+        "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/6.png",
+        "price": 999,
         "photoGallery": {
             "shortDescription": "",
             "images": [
@@ -183,6 +201,9 @@
             "emergencyEmail": "emergency@tokyo.com",
             "distance": "Distance: 6,896 miles (11,102 kilometers)"
         },
+        "discount": 18,
+        "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/7.png",
+        "price": 369,
         "photoGallery": {
             "shortDescription": "",
             "images": [
@@ -211,6 +232,9 @@
             "emergencyEmail": "emergency@tokyo.com",
             "distance": "Distance: 6,896 miles (11,102 kilometers)"
         },
+        "discount": 30,
+        "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/8.png",
+        "price": 420,
         "photoGallery": {
             "shortDescription": "",
             "images": [
@@ -239,6 +263,9 @@
             "emergencyEmail": "emergency@tokyo.com",
             "distance": "Distance: 6,896 miles (11,102 kilometers)"
         },
+        "discount": 60,
+        "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/9.png",
+        "price": 555,
         "photoGallery": {
             "shortDescription": "",
             "images": [
