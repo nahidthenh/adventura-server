@@ -8,6 +8,7 @@ app.use(cors())
 const hotels = require('./data/hotels.json')
 const whyus = require('./data/whyUs.json')
 const destinations = require('./data/destinations.json')
+const tour = require('./data/tour.json')
 
 app.get('/', (req, res) => {
     res.send('Adventura Server Is Running !!! ')
@@ -40,6 +41,17 @@ app.get('/destinations/:id', (req, res) => {
     const destination = destinations.find(wu => wu.id == id)
     res.send(destination)
 })
+
+
+app.get('/tour', (req, res) => {
+    res.send(tour)
+})
+app.get('/tour/:id', (req, res) => {
+    const id = req.params.id
+    const tour = tour.find(tur => tur.id == id)
+    res.send(tour)
+})
+
 
 app.listen(port, () => {
     console.log(`Adventura Server Running On Port ${port}`)

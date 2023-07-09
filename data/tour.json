@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "image": "placeholder1.jpg",
+        "place": "Paris",
+        "rating": 4.5,
+        "price": "$500",
+        "duration": "5 days",
+        "location": "France",
+        "shortDescription": "Experience the romance of Paris in 5 days.",
+        "overviewDescription": "Discover the iconic landmarks of Paris, indulge in French cuisine, and immerse yourself in the city's rich history and culture.",
+        "packageInclude": "Accommodation, Transportation, Tour Guide",
+        "departure": "Paris",
+        "departureTime": "9:00 AM",
+        "returnTime": "6:00 PM",
+        "included": "Meals, Sightseeing Tickets",
+        "excluded": "Personal Expenses",
+        "tourPlanShortDescription": "Day 1: Arrival and City Tour, Day 2: Visit Eiffel Tower and Louvre Museum, Day 3: Seine River Cruise, Day 4: Explore Montmartre, Day 5: Departure"
+    },
+    {
+        "id": "2",
+        "image": "placeholder2.jpg",
+        "place": "New York",
+        "rating": 4.8,
+        "price": "$800",
+        "duration": "7 days",
+        "location": "United States",
+        "shortDescription": "Experience the energy of New York City.",
+        "overviewDescription": "Immerse yourself in the vibrant atmosphere of New York City, visit famous landmarks, enjoy Broadway shows, and savor diverse cuisines.",
+        "packageInclude": "Accommodation, Transportation, Tour Guide",
+        "departure": "New York",
+        "departureTime": "10:00 AM",
+        "returnTime": "8:00 PM",
+        "included": "Meals, City Tours",
+        "excluded": "Airfare",
+        "tourPlanShortDescription": "Day 1: Arrival and City Tour, Day 2: Statue of Liberty and Ellis Island, Day 3: Central Park and Times Square, Day 4: Visit Museums, Day 5: Explore Brooklyn, Day 6: Shopping and Broadway Show, Day 7: Departure"
+    }
+]
