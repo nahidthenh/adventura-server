@@ -1,65 +1,83 @@
 [
     {
-        "id": "1",
+        "id": 1,
         "title": "Exploring the Serene Beaches of Bali",
         "image": "https://picsum.photos/616/480?random=1",
         "blogTitle": "Discover the Beauty of Bali",
-        "description": "Join us on a breathtaking journey to the enchanting island of Bali. Experience the golden sandy beaches, crystal-clear waters, and lush green landscapes that make Bali a tropical paradise."
+        "description": "Join us on a breathtaking journey to the enchanting island of Bali. Experience the golden sandy beaches, crystal-clear waters, and lush green landscapes that make Bali a tropical paradise.",
+        "shortDescription": "Experience the beauty of Bali's serene beaches and lush landscapes.",
+        "postDate": "2023-06-20"
     },
     {
-        "id": "2",
+        "id": 2,
         "title": "A Memorable Safari Adventure in Africa",
         "image": "https://picsum.photos/616/480?random=2",
         "blogTitle": "Embark on a Wildlife Safari",
-        "description": "Embark on an unforgettable wildlife safari in Africa, where you can witness majestic lions, graceful giraffes, and herds of elephants roaming freely in their natural habitat."
+        "description": "Embark on an unforgettable wildlife safari in Africa, where you can witness majestic lions, graceful giraffes, and herds of elephants roaming freely in their natural habitat.",
+        "shortDescription": "Embark on an unforgettable wildlife safari adventure in Africa.",
+        "postDate": "2023-06-15"
     },
     {
-        "id": "3",
+        "id": 3,
         "title": "Uncovering the Ancient Wonders of Egypt",
         "image": "https://picsum.photos/616/480?random=3",
         "blogTitle": "Journey Through Ancient Egypt",
-        "description": "Step back in time and explore the magnificent pyramids, mysterious Sphinx, and historic temples of Egypt. Delve into the rich history and immerse yourself in the captivating culture of this ancient civilization."
+        "description": "Step back in time and explore the magnificent pyramids, mysterious Sphinx, and historic temples of Egypt. Delve into the rich history and immerse yourself in the captivating culture of this ancient civilization.",
+        "shortDescription": "Discover the ancient wonders of Egypt and its rich history.",
+        "postDate": "2023-06-10"
     },
     {
-        "id": "4",
+        "id": 4,
         "title": "Adventures in the Charming Streets of Paris",
         "image": "https://picsum.photos/616/480?random=4",
         "blogTitle": "Discover the Magic of Paris",
-        "description": "Get lost in the romantic atmosphere of Paris as you stroll along the picturesque streets, visit iconic landmarks like the Eiffel Tower and Louvre Museum, and indulge in delicious French cuisine."
+        "description": "Get lost in the romantic atmosphere of Paris as you stroll along the picturesque streets, visit iconic landmarks like the Eiffel Tower and Louvre Museum, and indulge in delicious French cuisine.",
+        "shortDescription": "Experience the charm of Paris and its iconic landmarks.",
+        "postDate": "2023-06-05"
     },
     {
-        "id": "5",
+        "id": 5,
         "title": "Experiencing the Thrills of New Zealand",
         "image": "https://picsum.photos/616/480?random=5",
         "blogTitle": "Adventure Awaits in New Zealand",
-        "description": "Discover the adrenaline-packed adventures that await in New Zealand. From bungee jumping and skydiving to exploring the breathtaking landscapes featured in the 'Lord of the Rings' films, there's something for every thrill-seeker."
+        "description": "Discover the adrenaline-packed adventures that await in New Zealand. From bungee jumping and skydiving to exploring the breathtaking landscapes featured in the 'Lord of the Rings' films, there's something for every thrill-seeker.",
+        "shortDescription": "Embark on thrilling adventures in the stunning landscapes of New Zealand.",
+        "postDate": "2023-06-01"
     },
     {
-        "id": "6",
+        "id": 6,
         "title": "Captivating Beauty of the Northern Lights in Iceland",
         "image": "https://picsum.photos/616/480?random=6",
         "blogTitle": "Witness the Magic of the Northern Lights",
-        "description": "Embark on a journey to Iceland and witness the mesmerizing beauty of the Northern Lights dancing across the night sky. Explore stunning glaciers, geothermal hot springs, and rugged landscapes along the way."
+        "description": "Embark on a journey to Iceland and witness the mesmerizing beauty of the Northern Lights dancing across the night sky. Explore stunning glaciers, geothermal hot springs, and rugged landscapes along the way.",
+        "shortDescription": "Experience the magic of the Northern Lights in Iceland.",
+        "postDate": "2023-05-27"
     },
     {
-        "id": "7",
+        "id": 7,
         "title": "Trekking through the Himalayas in Nepal",
         "image": "https://picsum.photos/616/480?random=7",
         "blogTitle": "Experience the Majesty of the Himalayas",
-        "description": "Embark on an awe-inspiring trek through the majestic Himalayas in Nepal. Explore picturesque mountain villages, encounter diverse wildlife, and be rewarded with breathtaking views of towering peaks."
+        "description": "Embark on an awe-inspiring trek through the majestic Himalayas in Nepal. Explore picturesque mountain villages, encounter diverse wildlife, and be rewarded with breathtaking views of towering peaks.",
+        "shortDescription": "Embark on a majestic trek through the Himalayas in Nepal.",
+        "postDate": "2023-05-22"
     },
     {
-        "id": "8",
+        "id": 8,
         "title": "Cruising the Stunning Fjords of Norway",
         "image": "https://picsum.photos/616/480?random=8",
         "blogTitle": "Sail Through Norway's Fjords",
-        "description": "Embark on a scenic cruise through the spectacular fjords of Norway. Marvel at cascading waterfalls, towering cliffs, and snow-capped mountains, all while enjoying the tranquility of the serene waters."
+        "description": "Embark on a scenic cruise through the spectacular fjords of Norway. Marvel at cascading waterfalls, towering cliffs, and snow-capped mountains, all while enjoying the tranquility of the serene waters.",
+        "shortDescription": "Experience the breathtaking beauty of Norway's fjords.",
+        "postDate": "2023-05-17"
     },
     {
-        "id": "9",
+        "id": 9,
         "title": "Unveiling the Mysteries of Machu Picchu",
         "image": "https://picsum.photos/616/480?random=9",
         "blogTitle": "Explore the Ancient Ruins of Machu Picchu",
-        "description": "Discover the ancient wonders of Machu Picchu, a UNESCO World Heritage site nestled high in the Andes Mountains of Peru. Immerse yourself in the fascinating history and breathtaking landscapes of this mystical place."
+        "description": "Discover the ancient wonders of Machu Picchu, a UNESCO World Heritage site nestled high in the Andes Mountains of Peru. Immerse yourself in the fascinating history and breathtaking landscapes of this mystical place.",
+        "shortDescription": "Uncover the mysteries of Machu Picchu in Peru.",
+        "postDate": "2023-05-12"
     }
 ]

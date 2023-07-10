@@ -59,7 +59,7 @@ app.get('/testimonials', (req, res) => {
 })
 
 app.get('/blog', (req, res) => {
-    res.send(tour)
+    res.send(blog)
 })
 app.get('/blog/:id', (req, res) => {
     const id = req.params.id
