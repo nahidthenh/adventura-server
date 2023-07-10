@@ -9,6 +9,7 @@ const hotels = require('./data/hotels.json')
 const whyus = require('./data/whyUs.json')
 const destinations = require('./data/destinations.json')
 const tour = require('./data/tour.json')
+const testimonials = require('./data/testimonials.json')
 
 app.get('/', (req, res) => {
     res.send('Adventura Server Is Running !!! ')
@@ -52,6 +53,9 @@ app.get('/tour/:id', (req, res) => {
     res.send(tour)
 })
 
+app.get('/testimonials', (req, res) => {
+    res.send(testimonials)
+})
 
 app.listen(port, () => {
     console.log(`Adventura Server Running On Port ${port}`)

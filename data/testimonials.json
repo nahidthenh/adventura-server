@@ -1,32 +1,37 @@
 [
     {
+        "id": 1,
         "title": "Great Product!",
         "description": "The product exceeded my expectations. It's user-friendly, efficient, and offers great value for the price.",
         "username": "Sazib Uddin",
-        "userPhoto": "john-doe.jpg"
+        "userPhoto": "https://picsum.photos/80/80?random=1"
     },
     {
+        "id": 2,
         "title": "Highly Recommended!",
         "description": "I've tried several similar products, but this one stands out. It's reliable, well-designed, and delivers excellent results.",
         "username": "Sabbir Hossain",
-        "userPhoto": "jane-smith.jpg"
+        "userPhoto": "https://picsum.photos/80/80?random=2"
     },
     {
+        "id": 3,
         "title": "Impressive Customer Support",
         "description": "I had a few issues while setting up the product, but the customer support team was prompt, friendly, and resolved my problems quickly.",
         "username": "Tarik M.",
-        "userPhoto": "david-wilson.jpg"
+        "userPhoto": "https://picsum.photos/80/80?random=3"
     },
     {
+        "id": 4,
         "title": "Great Value for Money",
         "description": "Considering the features and quality, this product offers excellent value for money. I've been using it for months and I'm extremely satisfied.",
         "username": "Muzahid R.",
-        "userPhoto": "emily-johnson.jpg"
+        "userPhoto": "https://picsum.photos/80/80?random=4"
     },
     {
+        "id": 5,
         "title": "Life-changing Experience",
         "description": "Using this product has completely transformed the way I work. It's intuitive, powerful, and has improved my productivity significantly.",
         "username": "Tofiqu Ahmed.",
-        "userPhoto": "michael-brown.jpg"
+        "userPhoto": "https://picsum.photos/80/80?random=5"
     }
 ]
