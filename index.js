@@ -50,8 +50,8 @@ app.get('/tour', (req, res) => {
 })
 app.get('/tour/:id', (req, res) => {
     const id = req.params.id
-    const tour = tour.find(tur => tur.id == id)
-    res.send(tour)
+    const tours = tour.find(tur => tur.id == id)
+    res.send(tours)
 })
 
 app.get('/testimonials', (req, res) => {
