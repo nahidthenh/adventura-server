@@ -52,12 +52,12 @@
         "photoGallery": {
             "shortDescription": "Immerse yourself in the sights of Tokyo with these captivating images.",
             "images": [
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/2_gallery/1.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/2_gallery/2.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/2_gallery/3.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/2_gallery/4.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/2_gallery/5.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/2_gallery/6.png"
+                "https://picsum.photos/243/300?random=1",
+                "https://picsum.photos/243/300?random=2",
+                "https://picsum.photos/243/300?random=3",
+                "https://picsum.photos/243/300?random=4",
+                "https://picsum.photos/243/300?random=5",
+                "https://picsum.photos/243/300?random=6"
             ]
         }
     },
@@ -83,12 +83,12 @@
         "photoGallery": {
             "shortDescription": "Immerse yourself in the sights of Tokyo with these captivating images.",
             "images": [
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/3_gallery/1.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/3_gallery/2.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/3_gallery/3.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/3_gallery/4.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/3_gallery/5.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/3_gallery/6.png"
+                "https://picsum.photos/243/300?random=1",
+                "https://picsum.photos/243/300?random=2",
+                "https://picsum.photos/243/300?random=3",
+                "https://picsum.photos/243/300?random=4",
+                "https://picsum.photos/243/300?random=5",
+                "https://picsum.photos/243/300?random=6"
             ]
         }
     },
@@ -114,12 +114,12 @@
         "photoGallery": {
             "shortDescription": "",
             "images": [
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/4_gallery/1.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/4_gallery/2.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/4_gallery/3.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/4_gallery/4.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/4_gallery/5.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/4_gallery/6.png"
+                "https://picsum.photos/243/300?random=1",
+                "https://picsum.photos/243/300?random=2",
+                "https://picsum.photos/243/300?random=3",
+                "https://picsum.photos/243/300?random=4",
+                "https://picsum.photos/243/300?random=5",
+                "https://picsum.photos/243/300?random=6"
             ]
         }
     },
@@ -145,12 +145,12 @@
         "photoGallery": {
             "shortDescription": "",
             "images": [
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/5_gallery/1.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/5_gallery/2.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/5_gallery/3.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/5_gallery/4.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/5_gallery/5.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/5_gallery/6.png"
+                "https://picsum.photos/243/300?random=1",
+                "https://picsum.photos/243/300?random=2",
+                "https://picsum.photos/243/300?random=3",
+                "https://picsum.photos/243/300?random=4",
+                "https://picsum.photos/243/300?random=5",
+                "https://picsum.photos/243/300?random=6"
             ]
         }
     },
@@ -176,12 +176,12 @@
         "photoGallery": {
             "shortDescription": "",
             "images": [
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/6_gallery/1.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/6_gallery/2.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/6_gallery/3.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/6_gallery/4.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/6_gallery/5.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/6_gallery/6.png"
+                "https://picsum.photos/243/300?random=1",
+                "https://picsum.photos/243/300?random=2",
+                "https://picsum.photos/243/300?random=3",
+                "https://picsum.photos/243/300?random=4",
+                "https://picsum.photos/243/300?random=5",
+                "https://picsum.photos/243/300?random=6"
             ]
         }
     },
@@ -207,12 +207,12 @@
         "photoGallery": {
             "shortDescription": "",
             "images": [
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/7_gallery/1.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/7_gallery/2.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/7_gallery/3.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/7_gallery/4.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/7_gallery/5.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/7_gallery/6.png"
+                "https://picsum.photos/243/300?random=1",
+                "https://picsum.photos/243/300?random=2",
+                "https://picsum.photos/243/300?random=3",
+                "https://picsum.photos/243/300?random=4",
+                "https://picsum.photos/243/300?random=5",
+                "https://picsum.photos/243/300?random=6"
             ]
         }
     },
@@ -238,12 +238,12 @@
         "photoGallery": {
             "shortDescription": "",
             "images": [
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/8_gallery/1.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/8_gallery/2.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/8_gallery/3.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/8_gallery/4.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/8_gallery/5.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/8_gallery/6.png"
+                "https://picsum.photos/243/300?random=1",
+                "https://picsum.photos/243/300?random=2",
+                "https://picsum.photos/243/300?random=3",
+                "https://picsum.photos/243/300?random=4",
+                "https://picsum.photos/243/300?random=5",
+                "https://picsum.photos/243/300?random=6"
             ]
         }
     },
@@ -251,30 +251,30 @@
         "id": 9,
         "place": "Bangkok, Thailand",
         "image": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/9.png",
-        "description": "",
+        "description": "Explore the vibrant city of Bangkok, Thailand. Immerse yourself in its rich culture, visit stunning temples, indulge in delicious street food, and experience the bustling markets.",
         "countryDetails": {
-            "shortDescription": "",
-            "address": "",
-            "visaRequirements": "",
-            "country": "",
-            "languageSpoken": "",
-            "currencyUsed": "",
-            "supportPhone": "",
-            "emergencyEmail": "emergency@tokyo.com",
+            "shortDescription": "Discover the Land of Smiles",
+            "address": "Bangkok, Thailand",
+            "visaRequirements": "Yes Requard",
+            "country": "Thailand",
+            "languageSpoken": "Thai",
+            "currencyUsed": "Thai Baht (THB)",
+            "supportPhone": "+66 2 123 4567",
+            "emergencyEmail": "emergency@bangkok.com",
             "distance": "Distance: 6,896 miles (11,102 kilometers)"
         },
         "discount": 60,
         "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/9.png",
         "price": 555,
         "photoGallery": {
-            "shortDescription": "",
+            "shortDescription": "Experience the beauty of Bangkok",
             "images": [
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/9_gallery/1.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/9_gallery/2.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/9_gallery/3.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/9_gallery/4.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/9_gallery/5.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/9_gallery/6.png"
+                "https://picsum.photos/243/300?random=1",
+                "https://picsum.photos/243/300?random=2",
+                "https://picsum.photos/243/300?random=3",
+                "https://picsum.photos/243/300?random=4",
+                "https://picsum.photos/243/300?random=5",
+                "https://picsum.photos/243/300?random=6"
             ]
         }
     }
