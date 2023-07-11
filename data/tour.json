@@ -15,7 +15,27 @@
         "returnTime": "6:00 PM",
         "included": "Meals, Sightseeing Tickets",
         "excluded": "Personal Expenses",
-        "tourPlanShortDescription": "Day 1: Arrival and City Tour, Day 2: Visit Eiffel Tower and Louvre Museum, Day 3: Seine River Cruise, Day 4: Explore Montmartre, Day 5: Departure"
+        "tourPlanShortDescription": "Welcome to the beautiful city of Paris! Get ready for an unforgettable travel experience filled with history, culture, and iconic landmarks. Here's a detailed description of your travel plan",
+        "tourPlan": {
+            "days": [
+                "Day 1: Arrival and City Tour",
+                "Day 2: Visit Eiffel Tower and Louvre Museum",
+                "Day 3: Seine River Cruise",
+                "Day 4: Explore Montmartre",
+                "Day 5: Departure"
+            ]
+        },
+        "photoGallery": {
+            "shortDescription": "Indulge in the allure of Paris through our captivating Photo Gallery. Immerse yourself in the timeless elegance of the Eiffel Tower, wander the charming streets of Montmartre, and discover the artistic wonders of the Louvre. Be enchanted by the romantic ambiance, iconic landmarks, and cultural treasures that make Paris an unforgettable destination. Let our photos transport you to the City of Love.",
+            "images": [
+                "https://picsum.photos/243/300?random=1",
+                "https://picsum.photos/243/300?random=2",
+                "https://picsum.photos/243/300?random=3",
+                "https://picsum.photos/243/300?random=4",
+                "https://picsum.photos/243/300?random=5",
+                "https://picsum.photos/243/300?random=6"
+            ]
+        }
     },
     {
         "id": "2",
@@ -33,7 +53,27 @@
         "returnTime": "8:00 PM",
         "included": "Meals, City Tours",
         "excluded": "Airfare",
-        "tourPlanShortDescription": "Day 1: Arrival and City Tour, Day 2: Statue of Liberty and Ellis Island, Day 3: Central Park and Times Square, Day 4: Visit Museums, Day 5: Explore Brooklyn, Day 6: Shopping and Broadway Show, Day 7: Departure"
+        "tourPlanShortDescription": "Welcome to the beautiful city of Paris! Get ready for an unforgettable travel experience filled with history, culture, and iconic landmarks. Here's a detailed description of your travel plan",
+        "tourPlan": {
+            "days": [
+                "Day 1: Arrival and City Tour",
+                "Day 2: Visit Eiffel Tower and Louvre Museum",
+                "Day 3: Seine River Cruise",
+                "Day 4: Explore Montmartre",
+                "Day 5: Departure"
+            ]
+        },
+        "photoGallery": {
+            "shortDescription": "Indulge in the allure of Paris through our captivating Photo Gallery. Immerse yourself in the timeless elegance of the Eiffel Tower, wander the charming streets of Montmartre, and discover the artistic wonders of the Louvre. Be enchanted by the romantic ambiance, iconic landmarks, and cultural treasures that make Paris an unforgettable destination. Let our photos transport you to the City of Love.",
+            "images": [
+                "https://picsum.photos/243/300?random=1",
+                "https://picsum.photos/243/300?random=2",
+                "https://picsum.photos/243/300?random=3",
+                "https://picsum.photos/243/300?random=4",
+                "https://picsum.photos/243/300?random=5",
+                "https://picsum.photos/243/300?random=6"
+            ]
+        }
     },
     {
         "id": "3",
@@ -51,7 +91,27 @@
         "returnTime": "8:00 PM",
         "included": "Meals, City Tours",
         "excluded": "Airfare",
-        "tourPlanShortDescription": "Day 1: Arrival and City Tour, Day 2: Statue of Liberty and Ellis Island, Day 3: Central Park and Times Square, Day 4: Visit Museums, Day 5: Explore Brooklyn, Day 6: Shopping and Broadway Show, Day 7: Departure"
+        "tourPlanShortDescription": "Welcome to the beautiful city of Paris! Get ready for an unforgettable travel experience filled with history, culture, and iconic landmarks. Here's a detailed description of your travel plan",
+        "tourPlan": {
+            "days": [
+                "Day 1: Arrival and City Tour",
+                "Day 2: Visit Eiffel Tower and Louvre Museum",
+                "Day 3: Seine River Cruise",
+                "Day 4: Explore Montmartre",
+                "Day 5: Departure"
+            ]
+        },
+        "photoGallery": {
+            "shortDescription": "Indulge in the allure of Paris through our captivating Photo Gallery. Immerse yourself in the timeless elegance of the Eiffel Tower, wander the charming streets of Montmartre, and discover the artistic wonders of the Louvre. Be enchanted by the romantic ambiance, iconic landmarks, and cultural treasures that make Paris an unforgettable destination. Let our photos transport you to the City of Love.",
+            "images": [
+                "https://picsum.photos/243/300?random=1",
+                "https://picsum.photos/243/300?random=2",
+                "https://picsum.photos/243/300?random=3",
+                "https://picsum.photos/243/300?random=4",
+                "https://picsum.photos/243/300?random=5",
+                "https://picsum.photos/243/300?random=6"
+            ]
+        }
     },
     {
         "id": "4",
@@ -69,7 +129,27 @@
         "returnTime": "8:00 PM",
         "included": "Meals, City Tours",
         "excluded": "Airfare",
-        "tourPlanShortDescription": "Day 1: Arrival and City Tour, Day 2: Statue of Liberty and Ellis Island, Day 3: Central Park and Times Square, Day 4: Visit Museums, Day 5: Explore Brooklyn, Day 6: Shopping and Broadway Show, Day 7: Departure"
+        "tourPlanShortDescription": "Welcome to the beautiful city of Paris! Get ready for an unforgettable travel experience filled with history, culture, and iconic landmarks. Here's a detailed description of your travel plan",
+        "tourPlan": {
+            "days": [
+                "Day 1: Arrival and City Tour",
+                "Day 2: Visit Eiffel Tower and Louvre Museum",
+                "Day 3: Seine River Cruise",
+                "Day 4: Explore Montmartre",
+                "Day 5: Departure"
+            ]
+        },
+        "photoGallery": {
+            "shortDescription": "Indulge in the allure of Paris through our captivating Photo Gallery. Immerse yourself in the timeless elegance of the Eiffel Tower, wander the charming streets of Montmartre, and discover the artistic wonders of the Louvre. Be enchanted by the romantic ambiance, iconic landmarks, and cultural treasures that make Paris an unforgettable destination. Let our photos transport you to the City of Love.",
+            "images": [
+                "https://picsum.photos/243/300?random=1",
+                "https://picsum.photos/243/300?random=2",
+                "https://picsum.photos/243/300?random=3",
+                "https://picsum.photos/243/300?random=4",
+                "https://picsum.photos/243/300?random=5",
+                "https://picsum.photos/243/300?random=6"
+            ]
+        }
     },
     {
         "id": "5",
@@ -87,7 +167,27 @@
         "returnTime": "8:00 PM",
         "included": "Meals, City Tours",
         "excluded": "Airfare",
-        "tourPlanShortDescription": "Day 1: Arrival and City Tour, Day 2: Statue of Liberty and Ellis Island, Day 3: Central Park and Times Square, Day 4: Visit Museums, Day 5: Explore Brooklyn, Day 6: Shopping and Broadway Show, Day 7: Departure"
+        "tourPlanShortDescription": "Welcome to the beautiful city of Paris! Get ready for an unforgettable travel experience filled with history, culture, and iconic landmarks. Here's a detailed description of your travel plan",
+        "tourPlan": {
+            "days": [
+                "Day 1: Arrival and City Tour",
+                "Day 2: Visit Eiffel Tower and Louvre Museum",
+                "Day 3: Seine River Cruise",
+                "Day 4: Explore Montmartre",
+                "Day 5: Departure"
+            ]
+        },
+        "photoGallery": {
+            "shortDescription": "Indulge in the allure of Paris through our captivating Photo Gallery. Immerse yourself in the timeless elegance of the Eiffel Tower, wander the charming streets of Montmartre, and discover the artistic wonders of the Louvre. Be enchanted by the romantic ambiance, iconic landmarks, and cultural treasures that make Paris an unforgettable destination. Let our photos transport you to the City of Love.",
+            "images": [
+                "https://picsum.photos/243/300?random=1",
+                "https://picsum.photos/243/300?random=2",
+                "https://picsum.photos/243/300?random=3",
+                "https://picsum.photos/243/300?random=4",
+                "https://picsum.photos/243/300?random=5",
+                "https://picsum.photos/243/300?random=6"
+            ]
+        }
     },
     {
         "id": "6",
@@ -105,7 +205,27 @@
         "returnTime": "8:00 PM",
         "included": "Meals, City Tours",
         "excluded": "Airfare",
-        "tourPlanShortDescription": "Day 1: Arrival and City Tour, Day 2: Statue of Liberty and Ellis Island, Day 3: Central Park and Times Square, Day 4: Visit Museums, Day 5: Explore Brooklyn, Day 6: Shopping and Broadway Show, Day 7: Departure"
+        "tourPlanShortDescription": "Welcome to the beautiful city of Paris! Get ready for an unforgettable travel experience filled with history, culture, and iconic landmarks. Here's a detailed description of your travel plan",
+        "tourPlan": {
+            "days": [
+                "Day 1: Arrival and City Tour",
+                "Day 2: Visit Eiffel Tower and Louvre Museum",
+                "Day 3: Seine River Cruise",
+                "Day 4: Explore Montmartre",
+                "Day 5: Departure"
+            ]
+        },
+        "photoGallery": {
+            "shortDescription": "Indulge in the allure of Paris through our captivating Photo Gallery. Immerse yourself in the timeless elegance of the Eiffel Tower, wander the charming streets of Montmartre, and discover the artistic wonders of the Louvre. Be enchanted by the romantic ambiance, iconic landmarks, and cultural treasures that make Paris an unforgettable destination. Let our photos transport you to the City of Love.",
+            "images": [
+                "https://picsum.photos/243/300?random=1",
+                "https://picsum.photos/243/300?random=2",
+                "https://picsum.photos/243/300?random=3",
+                "https://picsum.photos/243/300?random=4",
+                "https://picsum.photos/243/300?random=5",
+                "https://picsum.photos/243/300?random=6"
+            ]
+        }
     },
     {
         "id": "7",
@@ -123,6 +243,26 @@
         "returnTime": "8:00 PM",
         "included": "Meals, City Tours",
         "excluded": "Airfare",
-        "tourPlanShortDescription": "Day 1: Arrival and City Tour, Day 2: Statue of Liberty and Ellis Island, Day 3: Central Park and Times Square, Day 4: Visit Museums, Day 5: Explore Brooklyn, Day 6: Shopping and Broadway Show, Day 7: Departure"
+        "tourPlanShortDescription": "Welcome to the beautiful city of Paris! Get ready for an unforgettable travel experience filled with history, culture, and iconic landmarks. Here's a detailed description of your travel plan",
+        "tourPlan": {
+            "days": [
+                "Day 1: Arrival and City Tour",
+                "Day 2: Visit Eiffel Tower and Louvre Museum",
+                "Day 3: Seine River Cruise",
+                "Day 4: Explore Montmartre",
+                "Day 5: Departure"
+            ]
+        },
+        "photoGallery": {
+            "shortDescription": "Indulge in the allure of Paris through our captivating Photo Gallery. Immerse yourself in the timeless elegance of the Eiffel Tower, wander the charming streets of Montmartre, and discover the artistic wonders of the Louvre. Be enchanted by the romantic ambiance, iconic landmarks, and cultural treasures that make Paris an unforgettable destination. Let our photos transport you to the City of Love.",
+            "images": [
+                "https://picsum.photos/243/300?random=1",
+                "https://picsum.photos/243/300?random=2",
+                "https://picsum.photos/243/300?random=3",
+                "https://picsum.photos/243/300?random=4",
+                "https://picsum.photos/243/300?random=5",
+                "https://picsum.photos/243/300?random=6"
+            ]
+        }
     }
 ]
