@@ -3,11 +3,11 @@
         "id": 1,
         "place": "Paris, France",
         "image": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/1.png",
-        "description": "Paris is the capital city of France and a major tourist destination known for its iconic landmarks such as the Eiffel Tower and Louvre Museum.",
+        "description": "Paris, the capital of France, is a city that captivates with its timeless charm. Known as the City of Love, Paris boasts an unparalleled blend of history, culture, and art. From the iconic Eiffel Tower and historic landmarks like Notre-Dame Cathedral to world-renowned museums like the Louvre and Musée d'Orsay, the city offers a rich tapestry of experiences. Stroll along the elegant boulevards, savor delectable French cuisine, and embrace the romantic ambiance along the Seine River. With its vibrant atmosphere, Paris truly embodies the essence of joie de vivre and continues to be a beloved destination for travelers from around the globe.",
         "countryDetails": {
-            "shortDescription": "France, a country in Western Europe, is known for its rich history, culture, and cuisine.",
+            "shortDescription": "Explore its iconic landmarks, indulge in delicious cuisine, and immerse yourself in the vibrant atmosphere of this enchanting city.",
             "address": "Paris, France",
-            "visaRequirements": "Visa requirements may vary. Please check with the respective embassy.",
+            "visaRequirements": "Yes Requard.",
             "country": "France",
             "languageSpoken": "French",
             "currencyUsed": "Euro",
@@ -19,14 +19,14 @@
         "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/1.png",
         "price": 120,
         "photoGallery": {
-            "shortDescription": "Explore the beauty of Paris through these stunning images.",
+            "shortDescription": "Indulge in the allure of Paris through our captivating Photo Gallery. Immerse yourself in the timeless elegance of the Eiffel Tower, wander the charming streets of Montmartre, and discover the artistic wonders of the Louvre. Be enchanted by the romantic ambiance, iconic landmarks, and cultural treasures that make Paris an unforgettable destination. Let our photos transport you to the City of Love.",
             "images": [
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/1_gallery/1.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/1_gallery/2.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/1_gallery/3.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/1_gallery/4.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/1_gallery/5.png",
-                "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/destinations/1_gallery/6.png"
+                "https://picsum.photos/243/300?random=1",
+                "https://picsum.photos/243/300?random=2",
+                "https://picsum.photos/243/300?random=3",
+                "https://picsum.photos/243/300?random=4",
+                "https://picsum.photos/243/300?random=5",
+                "https://picsum.photos/243/300?random=6"
             ]
         }
     },
