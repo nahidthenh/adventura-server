@@ -13,7 +13,7 @@
             "currencyUsed": "Euro",
             "supportPhone": "+1-123-456-7890",
             "emergencyEmail": "emergency@paris.com",
-            "distance": "Distance: 4,953 miles (7,969 kilometers)"
+            "distance": "4,953 miles (7,969 kilometers)"
         },
         "discount": 20,
         "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/1.png",
@@ -44,7 +44,7 @@
             "currencyUsed": "Japanese Yen",
             "supportPhone": "+1-123-456-7890",
             "emergencyEmail": "emergency@tokyo.com",
-            "distance": "Distance: 6,896 miles (11,102 kilometers)"
+            "distance": "6,896 miles (11,102 kilometers)"
         },
         "discount": 15,
         "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/2.png",
@@ -75,7 +75,7 @@
             "currencyUsed": "",
             "supportPhone": "",
             "emergencyEmail": "emergency@tokyo.com",
-            "distance": "Distance: 6,896 miles (11,102 kilometers)"
+            "distance": "6,896 miles (11,102 kilometers)"
         },
         "discount": 10,
         "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/3.png",
@@ -106,7 +106,7 @@
             "currencyUsed": "",
             "supportPhone": "",
             "emergencyEmail": "emergency@tokyo.com",
-            "distance": "Distance: 6,896 miles (11,102 kilometers)"
+            "distance": "6,896 miles (11,102 kilometers)"
         },
         "discount": 25,
         "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/4.png",
@@ -137,7 +137,7 @@
             "currencyUsed": "",
             "supportPhone": "",
             "emergencyEmail": "emergency@tokyo.com",
-            "distance": "Distance: 6,896 miles (11,102 kilometers)"
+            "distance": "6,896 miles (11,102 kilometers)"
         },
         "discount": 30,
         "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/5.png",
@@ -168,7 +168,7 @@
             "currencyUsed": "",
             "supportPhone": "",
             "emergencyEmail": "emergency@tokyo.com",
-            "distance": "Distance: 6,896 miles (11,102 kilometers)"
+            "distance": "6,896 miles (11,102 kilometers)"
         },
         "discount": 12,
         "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/6.png",
@@ -199,7 +199,7 @@
             "currencyUsed": "Brazilian Real (BRL).",
             "supportPhone": "+55-123456789",
             "emergencyEmail": "emergency@riodejaneiro.com",
-            "distance": "Distance: 6,896 miles (11,102 kilometers)"
+            "distance": "6,896 miles (11,102 kilometers)"
         },
         "discount": 18,
         "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/7.png",
@@ -230,7 +230,7 @@
             "currencyUsed": "South African Rand (ZAR)",
             "supportPhone": "+27 123 456 789",
             "emergencyEmail": "emergency@capetown.com",
-            "distance": "Distance: 6,896 miles (11,102 kilometers)"
+            "distance": "6,896 miles (11,102 kilometers)"
         },
         "discount": 30,
         "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/8.png",
@@ -261,7 +261,7 @@
             "currencyUsed": "Thai Baht (THB)",
             "supportPhone": "+66 2 123 4567",
             "emergencyEmail": "emergency@bangkok.com",
-            "distance": "Distance: 6,896 miles (11,102 kilometers)"
+            "distance": "6,896 miles (11,102 kilometers)"
         },
         "discount": 60,
         "offerImg": "https://raw.githubusercontent.com/nahidthenh/adventura-server/main/data/images/offers/9.png",
